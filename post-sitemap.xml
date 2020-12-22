@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/12/10/network-rest/</loc>
+        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/03/05/react-introduce/</loc>
         <lastmod>2020-12-21T04:05:59.007Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,14 +250,6 @@
 
     <url>
         <loc>https://recordboy.github.io/2019/10/18/network-port/</loc>
-        <lastmod>2020-12-17T04:09:24.401Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/12/10/network-rest/</loc>
         <lastmod>2020-12-17T04:09:24.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

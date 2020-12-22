@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/tags/restfull/</loc>
+        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/rest/</loc>
+        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/network/</loc>
+        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/tags/react/</loc>
         <lastmod>2020-12-21T04:05:59.007Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -124,27 +145,6 @@
     <url>
         <loc>https://recordboy.github.io/tags/nginx/</loc>
         <lastmod>2020-12-17T04:09:24.402Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/restfull/</loc>
-        <lastmod>2020-12-17T04:09:24.401Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/rest/</loc>
-        <lastmod>2020-12-17T04:09:24.401Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/network/</loc>
-        <lastmod>2020-12-17T04:09:24.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
