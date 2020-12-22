@@ -3,393 +3,393 @@
 
 
     <url>
-        <loc>https://recordboy.github.io/tags/github/</loc>
-        <lastmod>2020-12-22T07:11:15.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/git/</loc>
-        <lastmod>2020-12-22T07:11:15.115Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/es6/</loc>
-        <lastmod>2020-12-22T07:09:35.306Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/javascript/</loc>
-        <lastmod>2020-12-22T07:09:35.306Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/restfull/</loc>
-        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/rest/</loc>
-        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/network/</loc>
-        <lastmod>2020-12-22T01:11:37.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/react/</loc>
-        <lastmod>2020-12-21T04:05:59.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/node-js/</loc>
-        <lastmod>2020-12-17T04:51:17.711Z</lastmod>
+        <loc>https://recordboy.github.io/tags/web/</loc>
+        <lastmod>2020-12-22T07:40:06.251Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/web-crawling/</loc>
-        <lastmod>2020-12-17T04:09:24.410Z</lastmod>
+        <lastmod>2020-12-22T07:40:03.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/node-js/</loc>
+        <lastmod>2020-12-22T07:40:03.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/vue-js/</loc>
-        <lastmod>2020-12-17T04:09:24.410Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/web/</loc>
-        <lastmod>2020-12-17T04:09:24.410Z</lastmod>
+        <lastmod>2020-12-22T07:39:59.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/command/</loc>
-        <lastmod>2020-12-17T04:09:24.409Z</lastmod>
+        <lastmod>2020-12-22T07:39:46.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/vim/</loc>
-        <lastmod>2020-12-17T04:09:24.408Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/ui/</loc>
-        <lastmod>2020-12-17T04:09:24.408Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/vanillajs/</loc>
-        <lastmod>2020-12-17T04:09:24.408Z</lastmod>
+        <lastmod>2020-12-22T07:39:43.170Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/linux/</loc>
-        <lastmod>2020-12-17T04:09:24.408Z</lastmod>
+        <lastmod>2020-12-22T07:39:43.170Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/ui/</loc>
+        <lastmod>2020-12-22T07:39:39.894Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/vanillajs/</loc>
+        <lastmod>2020-12-22T07:39:39.894Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/jquery/</loc>
-        <lastmod>2020-12-17T04:09:24.407Z</lastmod>
+        <lastmod>2020-12-22T07:39:17.961Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/typescript/</loc>
-        <lastmod>2020-12-17T04:09:24.406Z</lastmod>
+        <lastmod>2020-12-22T07:39:06.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/javascript/</loc>
+        <lastmod>2020-12-22T07:39:06.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/svelte-js/</loc>
-        <lastmod>2020-12-17T04:09:24.405Z</lastmod>
+        <lastmod>2020-12-22T07:38:51.633Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/sass/</loc>
-        <lastmod>2020-12-17T04:09:24.405Z</lastmod>
+        <lastmod>2020-12-22T07:38:48.173Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/css/</loc>
-        <lastmod>2020-12-17T04:09:24.405Z</lastmod>
+        <lastmod>2020-12-22T07:38:48.173Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/jsx/</loc>
-        <lastmod>2020-12-17T04:09:24.404Z</lastmod>
+        <lastmod>2020-12-22T07:38:35.153Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/react/</loc>
+        <lastmod>2020-12-22T07:38:35.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/nginx/</loc>
-        <lastmod>2020-12-17T04:09:24.402Z</lastmod>
+        <lastmod>2020-12-22T07:37:49.605Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/restfull/</loc>
+        <lastmod>2020-12-22T07:37:42.959Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/rest/</loc>
+        <lastmod>2020-12-22T07:37:42.959Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/network/</loc>
+        <lastmod>2020-12-22T07:37:42.959Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/terminal/</loc>
-        <lastmod>2020-12-17T04:09:24.400Z</lastmod>
+        <lastmod>2020-12-22T07:37:30.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/mac/</loc>
-        <lastmod>2020-12-17T04:09:24.400Z</lastmod>
+        <lastmod>2020-12-22T07:37:30.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/yum/</loc>
-        <lastmod>2020-12-17T04:09:24.399Z</lastmod>
+        <lastmod>2020-12-22T07:37:22.892Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/mysql/</loc>
-        <lastmod>2020-12-17T04:09:24.399Z</lastmod>
+        <lastmod>2020-12-22T07:37:15.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/apache/</loc>
-        <lastmod>2020-12-17T04:09:24.398Z</lastmod>
+        <lastmod>2020-12-22T07:37:05.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/php/</loc>
-        <lastmod>2020-12-17T04:09:24.398Z</lastmod>
+        <lastmod>2020-12-22T07:37:05.433Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/functional-programming/</loc>
-        <lastmod>2020-12-17T04:09:24.394Z</lastmod>
+        <lastmod>2020-12-22T07:36:17.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/pure-function/</loc>
-        <lastmod>2020-12-17T04:09:24.394Z</lastmod>
+        <lastmod>2020-12-22T07:36:17.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/http/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:35:30.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/closure/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/es8/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <loc>https://recordboy.github.io/tags/es6/</loc>
+        <lastmod>2020-12-22T07:35:23.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/es5/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:35:01.757Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/closure/</loc>
+        <lastmod>2020-12-22T07:34:34.184Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/es8/</loc>
+        <lastmod>2020-12-22T07:34:15.274Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/jquey/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:33:09.780Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/web-accessibility/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:33:03.968Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/html/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:33:03.968Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/seo/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:32:54.880Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/jekyll/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:32:54.880Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/github/</loc>
+        <lastmod>2020-12-22T07:32:54.880Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/git/</loc>
+        <lastmod>2020-12-22T07:32:05.241Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/hexo/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/extension/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/module/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/tools/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/prettier/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/eslint/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:31:55.253Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/heroku/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:31:40.946Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/express/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:31:40.946Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/extension/</loc>
+        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/module/</loc>
+        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/tools/</loc>
+        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/prettier/</loc>
+        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/eslint/</loc>
+        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/insurance/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:31:32.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/economy/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
+        <lastmod>2020-12-22T07:31:32.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/debug/</loc>
-        <lastmod>2020-12-17T04:09:24.363Z</lastmod>
+        <lastmod>2020-12-22T07:31:28.171Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/chrome/</loc>
-        <lastmod>2020-12-17T04:09:24.363Z</lastmod>
+        <lastmod>2020-12-22T07:31:28.171Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/youngcart5/</loc>
-        <lastmod>2020-12-17T04:09:24.363Z</lastmod>
+        <lastmod>2020-12-22T07:31:23.939Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/centos/</loc>
-        <lastmod>2020-12-17T04:09:24.363Z</lastmod>
+        <lastmod>2020-12-22T07:31:23.939Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/tags/algorithm/</loc>
-        <lastmod>2020-12-17T04:09:24.363Z</lastmod>
+        <lastmod>2020-12-22T07:30:52.641Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
