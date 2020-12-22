@@ -9,6 +9,34 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/categories/git/github/</loc>
+        <lastmod>2020-12-22T07:11:15.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/git/</loc>
+        <lastmod>2020-12-22T07:11:15.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/front-end/javascript/</loc>
+        <lastmod>2020-12-22T07:09:35.306Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/front-end/</loc>
+        <lastmod>2020-12-22T07:09:35.306Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/categories/network/</loc>
         <lastmod>2020-12-22T01:11:37.670Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,20 +46,6 @@
     <url>
         <loc>https://recordboy.github.io/categories/front-end/react/</loc>
         <lastmod>2020-12-21T04:05:59.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/front-end/</loc>
-        <lastmod>2020-12-21T04:05:59.007Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/front-end/javascript/</loc>
-        <lastmod>2020-12-18T00:44:06.880Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -121,13 +135,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/categories/git/github/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/categories/git/git/</loc>
         <lastmod>2020-12-17T04:09:24.379Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -157,13 +164,6 @@
 
     <url>
         <loc>https://recordboy.github.io/categories/front-end/html/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/git/</loc>
         <lastmod>2020-12-17T04:09:24.379Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

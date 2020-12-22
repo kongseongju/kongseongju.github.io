@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/03/03/github-page-404-error/</loc>
+        <lastmod>2020-12-22T07:11:15.115Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/04/30/javascript-es6-destructuring-assignment/</loc>
+        <lastmod>2020-12-22T07:09:35.306Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/12/10/network-rest/</loc>
         <lastmod>2020-12-22T01:11:37.670Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -473,14 +489,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/03/03/github-page-404-error/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2019/12/01/github-seo-setting/</loc>
         <lastmod>2020-12-17T04:09:24.379Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -666,14 +674,6 @@
 
     <url>
         <loc>https://recordboy.github.io/2020/03/04/javascript-es6-class/</loc>
-        <lastmod>2020-12-17T04:09:24.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/04/30/javascript-es6-destructuring-assignment/</loc>
         <lastmod>2020-12-17T04:09:24.379Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
