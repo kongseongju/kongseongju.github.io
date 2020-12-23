@@ -9,6 +9,102 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/07/06/eslint-prettier/</loc>
+        <lastmod>2020-12-23T01:15:53.349Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/05/28/ui-agree-checkbox/</loc>
+        <lastmod>2020-12-23T01:15:19.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/11/01/git-commit-message-convention/</loc>
+        <lastmod>2020-12-23T01:14:46.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/02/05/javascript-naming-convension/</loc>
+        <lastmod>2020-12-23T01:14:00.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/01/15/javascript-get-index/</loc>
+        <lastmod>2020-12-23T01:12:48.127Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/02/21/algorithm-star/</loc>
+        <lastmod>2020-12-23T01:12:27.074Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/10/20/svelte-seminar/</loc>
+        <lastmod>2020-12-23T01:11:27.427Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/12/12/linux-mysql-status-command/</loc>
+        <lastmod>2020-12-23T01:11:23.687Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
+        <lastmod>2020-12-23T01:10:00.372Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/03/03/github-page-404-error/</loc>
+        <lastmod>2020-12-23T01:07:14.604Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/10/02/ui-custom-selectbox/</loc>
+        <lastmod>2020-12-23T01:04:15.875Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
+        <lastmod>2020-12-23T01:02:53.921Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2019/03/25/web-technology-terminology/</loc>
         <lastmod>2020-12-22T07:40:06.251Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,14 +169,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
-        <lastmod>2020-12-22T07:39:35.924Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/02/05/ui-rock-paper-scissors/</loc>
         <lastmod>2020-12-22T07:39:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -113,22 +201,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2019/10/02/ui-custom-selectbox/</loc>
-        <lastmod>2020-12-22T07:39:14.896Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2019/05/28/ui-agree-checkbox/</loc>
-        <lastmod>2020-12-22T07:39:09.605Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/05/12/typescript-type-declaration/</loc>
         <lastmod>2020-12-22T07:39:06.074Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -139,14 +211,6 @@
     <url>
         <loc>https://recordboy.github.io/2020/05/09/typescript-init/</loc>
         <lastmod>2020-12-22T07:38:55.176Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2019/10/20/svelte-seminar/</loc>
-        <lastmod>2020-12-22T07:38:51.633Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -297,14 +361,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2019/12/12/linux-mysql-status-command/</loc>
-        <lastmod>2020-12-22T07:37:15.422Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2019/10/10/linux-command/</loc>
         <lastmod>2020-12-22T07:37:09.773Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -377,14 +433,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
-        <lastmod>2020-12-22T07:36:36.839Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2017/12/02/javascript-scope/</loc>
         <lastmod>2020-12-22T07:36:33.044Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -449,14 +497,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/02/05/javascript-naming-convension/</loc>
-        <lastmod>2020-12-22T07:35:57.817Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/02/03/javascript-module-pattern/</loc>
         <lastmod>2020-12-22T07:35:54.321Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -483,14 +523,6 @@
     <url>
         <loc>https://recordboy.github.io/2017/02/01/javascript-introduce/</loc>
         <lastmod>2020-12-22T07:35:43.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2018/01/15/javascript-get-index/</loc>
-        <lastmod>2020-12-22T07:35:39.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -729,24 +761,8 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/03/03/github-page-404-error/</loc>
-        <lastmod>2020-12-22T07:32:05.241Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/04/20/github-hexo-init/</loc>
         <lastmod>2020-12-22T07:31:55.253Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2019/11/01/git-commit-message-convention/</loc>
-        <lastmod>2020-12-22T07:31:48.463Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -763,14 +779,6 @@
     <url>
         <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
         <lastmod>2020-12-22T07:31:40.946Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/07/06/eslint-prettier/</loc>
-        <lastmod>2020-12-22T07:31:36.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -827,14 +835,6 @@
     <url>
         <loc>https://recordboy.github.io/2020/03/01/cache-css/</loc>
         <lastmod>2020-12-22T07:31:01.116Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2018/02/21/algorithm-star/</loc>
-        <lastmod>2020-12-22T07:30:52.641Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
