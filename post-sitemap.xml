@@ -9,6 +9,158 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/04/29/javascript-es6-arrow-function/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/02/13/javascript-es5/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/04/30/javascript-es6-destructuring-assignment/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/09/22/javascript-fetch-api/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2017/12/04/network-get-post/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/12/10/network-rest/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/03/08/react-props-state/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/05/12/typescript-type-declaration/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/03/27/react-phone-book/</loc>
+        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/05/15/javascript-array-method/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/03/04/javascript-es6-class/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/04/29/javascript-es6-spread-operator/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/11/08/javascript-function-method/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/02/03/javascript-module-pattern/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/06/05/javascript-promise/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/12/17/javascript-prototype/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/03/02/javascript-regexp/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2018/11/01/javascript-this/</loc>
+        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
         <lastmod>2020-12-23T01:24:47.859Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -91,14 +243,6 @@
     <url>
         <loc>https://recordboy.github.io/2019/10/02/ui-custom-selectbox/</loc>
         <lastmod>2020-12-23T01:04:15.875Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
-        <lastmod>2020-12-23T01:02:53.921Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -201,14 +345,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/05/12/typescript-type-declaration/</loc>
-        <lastmod>2020-12-22T07:39:06.074Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/05/09/typescript-init/</loc>
         <lastmod>2020-12-22T07:38:55.176Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -235,22 +371,6 @@
     <url>
         <loc>https://recordboy.github.io/2020/02/07/sass-init/</loc>
         <lastmod>2020-12-22T07:38:38.743Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/03/08/react-props-state/</loc>
-        <lastmod>2020-12-22T07:38:35.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/03/27/react-phone-book/</loc>
-        <lastmod>2020-12-22T07:38:31.763Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -305,24 +425,8 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2020/12/10/network-rest/</loc>
-        <lastmod>2020-12-22T07:37:42.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2019/10/18/network-port/</loc>
         <lastmod>2020-12-22T07:37:36.948Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2017/12/04/network-get-post/</loc>
-        <lastmod>2020-12-22T07:37:34.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -409,14 +513,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2018/11/01/javascript-this/</loc>
-        <lastmod>2020-12-22T07:36:47.016Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2018/01/01/javascript-switch/</loc>
         <lastmod>2020-12-22T07:36:43.269Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -435,14 +531,6 @@
     <url>
         <loc>https://recordboy.github.io/2017/12/02/javascript-scope/</loc>
         <lastmod>2020-12-22T07:36:33.044Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2018/03/02/javascript-regexp/</loc>
-        <lastmod>2020-12-22T07:36:28.783Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -473,32 +561,8 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2018/12/17/javascript-prototype/</loc>
-        <lastmod>2020-12-22T07:36:14.598Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/06/05/javascript-promise/</loc>
-        <lastmod>2020-12-22T07:36:08.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2017/05/03/javascript-primitive-data-type/</loc>
         <lastmod>2020-12-22T07:36:03.453Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/02/03/javascript-module-pattern/</loc>
-        <lastmod>2020-12-22T07:35:54.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -529,64 +593,8 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2018/11/08/javascript-function-method/</loc>
-        <lastmod>2020-12-22T07:35:35.248Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/09/22/javascript-fetch-api/</loc>
-        <lastmod>2020-12-22T07:35:30.109Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2020/03/02/javascript-event-delegation/</loc>
         <lastmod>2020-12-22T07:35:26.728Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/04/29/javascript-es6-spread-operator/</loc>
-        <lastmod>2020-12-22T07:35:23.400Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/04/30/javascript-es6-destructuring-assignment/</loc>
-        <lastmod>2020-12-22T07:35:19.761Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/03/04/javascript-es6-class/</loc>
-        <lastmod>2020-12-22T07:35:11.343Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/04/29/javascript-es6-arrow-function/</loc>
-        <lastmod>2020-12-22T07:35:06.243Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/02/13/javascript-es5/</loc>
-        <lastmod>2020-12-22T07:35:01.757Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -667,14 +675,6 @@
     <url>
         <loc>https://recordboy.github.io/2020/02/21/javascript-array-reduce/</loc>
         <lastmod>2020-12-22T07:34:04.875Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2018/05/15/javascript-array-method/</loc>
-        <lastmod>2020-12-22T07:34:01.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
