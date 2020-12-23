@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
+        <lastmod>2020-12-23T01:24:47.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/07/06/eslint-prettier/</loc>
         <lastmod>2020-12-23T01:15:53.349Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,14 +75,6 @@
     <url>
         <loc>https://recordboy.github.io/2019/12/12/linux-mysql-status-command/</loc>
         <lastmod>2020-12-23T01:11:23.687Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
-        <lastmod>2020-12-23T01:10:00.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

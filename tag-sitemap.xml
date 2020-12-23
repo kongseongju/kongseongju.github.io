@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/tags/ui/</loc>
+        <lastmod>2020-12-23T01:24:47.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/vanillajs/</loc>
+        <lastmod>2020-12-23T01:24:47.859Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/tags/extension/</loc>
         <lastmod>2020-12-23T01:15:53.349Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,20 +47,6 @@
     <url>
         <loc>https://recordboy.github.io/tags/eslint/</loc>
         <lastmod>2020-12-23T01:15:53.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/ui/</loc>
-        <lastmod>2020-12-23T01:15:19.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/vanillajs/</loc>
-        <lastmod>2020-12-23T01:15:19.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
