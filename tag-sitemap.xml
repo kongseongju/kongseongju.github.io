@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/tags/heroku/</loc>
+        <lastmod>2020-12-24T06:16:12.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/react/</loc>
+        <lastmod>2020-12-24T06:16:12.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/express/</loc>
+        <lastmod>2020-12-24T06:16:12.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/tags/typescript/</loc>
         <lastmod>2020-12-23T08:23:12.148Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +74,6 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/es5/</loc>
-        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/react/</loc>
         <lastmod>2020-12-23T08:23:12.148Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -334,20 +348,6 @@
     <url>
         <loc>https://recordboy.github.io/tags/hexo/</loc>
         <lastmod>2020-12-22T07:31:55.253Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/heroku/</loc>
-        <lastmod>2020-12-22T07:31:40.946Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/express/</loc>
-        <lastmod>2020-12-22T07:31:40.946Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
+        <lastmod>2020-12-24T06:16:12.436Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/04/29/javascript-es6-arrow-function/</loc>
         <lastmod>2020-12-23T08:23:12.148Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -771,14 +779,6 @@
     <url>
         <loc>https://recordboy.github.io/2019/10/01/git-command/</loc>
         <lastmod>2020-12-22T07:31:45.233Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
-        <lastmod>2020-12-22T07:31:40.946Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
