@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/tags/javascript/</loc>
+        <lastmod>2020-12-31T12:32:59.906Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/tags/heroku/</loc>
         <lastmod>2020-12-24T06:16:12.436Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -74,13 +81,6 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/es5/</loc>
-        <lastmod>2020-12-23T08:23:12.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/javascript/</loc>
         <lastmod>2020-12-23T08:23:12.148Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
+        <lastmod>2020-12-31T12:32:59.906Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
         <lastmod>2020-12-24T06:16:12.436Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -146,14 +154,6 @@
 
     <url>
         <loc>https://recordboy.github.io/2018/03/02/javascript-regexp/</loc>
-        <lastmod>2020-12-23T08:23:12.121Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</loc>
         <lastmod>2020-12-23T08:23:12.121Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

@@ -9,11 +9,11 @@
     <atom:link href="https://recordboy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>프론트엔드 기술에 대한 기록 전용 블로그</description>
-    <pubDate>Wed, 23 Dec 2020 08:23:12 GMT</pubDate>
+    <pubDate>Thu, 31 Dec 2020 12:32:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>[JavaScript] 얕은 복사(Shallow Copy)와 깊은 복사(Deep Copy)</title>
+      <title>[JavaScript] 얕은 복사와 깊은 복사</title>
       <link>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</link>
       <guid>https://recordboy.github.io/2020/12/15/javascript-shallow-copy-deep-copy/</guid>
       <pubDate>Tue, 15 Dec 2020 06:01:25 GMT</pubDate>
