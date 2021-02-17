@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/05/23/ui-parallax-scroll/</loc>
+        <lastmod>2021-02-15T05:33:27.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2019/10/02/ui-custom-selectbox/</loc>
+        <lastmod>2021-02-15T05:31:32.544Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/02/01/javascript-closure/</loc>
         <lastmod>2021-01-19T03:07:36.451Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -265,14 +281,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/2019/10/02/ui-custom-selectbox/</loc>
-        <lastmod>2020-12-23T01:04:15.875Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/2019/03/25/web-technology-terminology/</loc>
         <lastmod>2020-12-22T07:40:06.251Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -347,14 +355,6 @@
     <url>
         <loc>https://recordboy.github.io/2019/12/08/ui-pinterest-layout/</loc>
         <lastmod>2020-12-22T07:39:26.838Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/05/23/ui-parallax-scroll/</loc>
-        <lastmod>2020-12-22T07:39:20.777Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

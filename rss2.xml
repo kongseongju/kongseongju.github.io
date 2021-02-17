@@ -354,17 +354,16 @@
       <guid>https://recordboy.github.io/2020/05/23/ui-parallax-scroll/</guid>
       <pubDate>Sat, 23 May 2020 04:37:06 GMT</pubDate>
       
-        
-        
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;del&gt;&lt;a href=&quot;https://vincentgarreau.com/particles.js/&quot;&gt;particles.js&lt;/a&gt; 적용&lt;/dle&gt;&lt;/li&gt;
 &lt;li&gt;백그라운드에 패럴랙스 적용&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https:/</description>
-        
+&lt;li&gt;&lt;a href=&quot;https://recordboy.github.io/ui/parallax-scroll/&quot;&gt;구현 화면&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/recordboy/ui/tree/master/parallax-scroll&quot;&gt;코드&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
       
       
-      <content:encoded><![CDATA[<ul><li><del><a href="https://vincentgarreau.com/particles.js/">particles.js</a> 적용</dle></li><li>백그라운드에 패럴랙스 적용</li><li><a href="https://recordboy.github.io/ui/parallax-scroll/">구현 화면</a>  </li><li><a href="https://github.com/recordboy/ui/tree/master/parallax-scroll">코드</a></li></ul><script src="https://ads-partners.coupang.com/g.js"></script><script>new PartnersCoupang.G({ id:390604 });</script>]]></content:encoded>
+      <content:encoded><![CDATA[<ul><li><del><a href="https://vincentgarreau.com/particles.js/">particles.js</a> 적용</dle></li><li>백그라운드에 패럴랙스 적용</li><li><a href="https://recordboy.github.io/ui/parallax-scroll/">구현 화면</a>  </li><li><a href="https://github.com/recordboy/ui/tree/master/parallax-scroll">코드</a></li></ul><a id="more"></a><script src="https://ads-partners.coupang.com/g.js"></script><script>new PartnersCoupang.G({ id:390604 });</script>]]></content:encoded>
       
       
       <category domain="https://recordboy.github.io/categories/front-end/">front-end</category>
