@@ -10,21 +10,77 @@
 
     <url>
         <loc>https://recordboy.github.io/categories/front-end/ui/</loc>
-        <lastmod>2021-02-15T05:33:27.351Z</lastmod>
+        <lastmod>2021-03-17T08:48:15.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/categories/front-end/</loc>
-        <lastmod>2021-02-15T05:33:27.351Z</lastmod>
+        <lastmod>2021-03-17T08:48:15.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/front-end/svelte-js/</loc>
+        <lastmod>2021-03-17T08:47:56.149Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/server/mysql/</loc>
+        <lastmod>2021-03-17T08:47:50.010Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/server/</loc>
+        <lastmod>2021-03-17T08:47:50.010Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://recordboy.github.io/categories/front-end/javascript/</loc>
-        <lastmod>2021-01-19T03:07:36.451Z</lastmod>
+        <lastmod>2021-03-17T08:47:43.365Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/git/github/</loc>
+        <lastmod>2021-03-17T08:47:30.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/git/</loc>
+        <lastmod>2021-03-17T08:47:30.278Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/git/git/</loc>
+        <lastmod>2021-03-17T08:47:22.997Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/server/express/</loc>
+        <lastmod>2021-03-17T08:47:11.198Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/etc/</loc>
+        <lastmod>2021-03-17T08:47:04.821Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -32,20 +88,6 @@
     <url>
         <loc>https://recordboy.github.io/categories/front-end/react/</loc>
         <lastmod>2021-01-19T03:07:36.450Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/server/express/</loc>
-        <lastmod>2021-01-05T01:14:41.293Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/server/</loc>
-        <lastmod>2021-01-05T01:14:41.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -60,48 +102,6 @@
     <url>
         <loc>https://recordboy.github.io/categories/network/</loc>
         <lastmod>2020-12-23T08:23:12.148Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/etc/</loc>
-        <lastmod>2020-12-23T01:15:53.349Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/git/git/</loc>
-        <lastmod>2020-12-23T01:14:46.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/git/</loc>
-        <lastmod>2020-12-23T01:14:46.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/front-end/svelte-js/</loc>
-        <lastmod>2020-12-23T01:11:27.427Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/server/mysql/</loc>
-        <lastmod>2020-12-23T01:11:23.687Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/git/github/</loc>
-        <lastmod>2020-12-23T01:07:14.604Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
