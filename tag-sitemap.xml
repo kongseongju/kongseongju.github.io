@@ -59,14 +59,14 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/svelte-js/</loc>
+        <loc>https://recordboy.github.io/tags/typescript/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/typescript/</loc>
+        <loc>https://recordboy.github.io/tags/svelte-js/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/yum/</loc>
-        <lastmod>2021-03-31T04:40:18.583Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/tags/network/</loc>
         <lastmod>2021-03-31T04:40:18.583Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -172,6 +165,13 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/mac/</loc>
+        <lastmod>2021-03-31T04:40:18.583Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/yum/</loc>
         <lastmod>2021-03-31T04:40:18.583Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -360,13 +360,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/youngcart5/</loc>
-        <lastmod>2021-03-31T04:40:18.577Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/tags/debug/</loc>
         <lastmod>2021-03-31T04:40:18.577Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -375,6 +368,13 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/chrome/</loc>
+        <lastmod>2021-03-31T04:40:18.577Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/youngcart5/</loc>
         <lastmod>2021-03-31T04:40:18.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

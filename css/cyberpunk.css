@@ -10931,6 +10931,10 @@ a.article-nav-next span {
   word-wrap: break-word;
   white-space: normal;
 }
+.column-main .title {
+  line-height: 1.5;
+  font-weight: bold;
+}
 .navbar-main {
   box-shadow: none;
 }
