@@ -10270,16 +10270,13 @@ body > .section {
   }
   ::-webkit-scrollbar-track {
     border-radius: 3px;
-    background: rgba(0,0,0,0.06);
-    box-shadow: inset 0 0 5px rgba(0,0,0,0.1);
   }
   ::-webkit-scrollbar-thumb {
     border-radius: 3px;
-    background: rgba(0,0,0,0.12);
-    box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.2);
   }
   ::-webkit-scrollbar-thumb:hover {
-    background: rgba(0,0,0,0.24);
+    background: rgba(0,0,0,0.3);
   }
 }
 .ml-0,
@@ -10971,6 +10968,7 @@ a.article-nav-next span {
 .navbar-main .navbar-item:hover,
 .navbar-main .navbar-item:active,
 .navbar-main .navbar-item:visited {
+  background-color: transparent;
   color: #fcee09;
 }
 @media screen and (max-width: 1087px) {
