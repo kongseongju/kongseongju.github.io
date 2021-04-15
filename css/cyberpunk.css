@@ -10932,7 +10932,7 @@ a.article-nav-next span {
   white-space: normal;
 }
 .column-main .title {
-  line-height: 1.5;
+  line-height: 1.4;
   font-weight: bold;
 }
 .navbar-main {
@@ -10969,8 +10969,9 @@ a.article-nav-next span {
   background-color: transparent;
 }
 .navbar-main .navbar-item:hover,
+.navbar-main .navbar-item:active,
 .navbar-main .navbar-item:visited {
-  color: #000;
+  color: #fcee09;
 }
 @media screen and (max-width: 1087px) {
   .navbar-main .navbar-menu {
@@ -11022,7 +11023,7 @@ footer.footer .level-end .field {
   box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
 }
 .pagination .pagination-link.is-current {
-  background: #000;
+  background: #fcee09;
 }
 .post-navigation {
   color: #cdcdcd;
@@ -11362,12 +11363,13 @@ figure.highlight .section {
   color: $white-invert;
 }
 .widget .tags .tag:first-child {
-  background: #fcee09;
-  color: #121617;
+  border-right: 1px solid #fff;
+  background: $light-grey;
+  color: #fcee09;
 }
 .widget .tags .tag:last-child {
   background: $light-grey;
-  color: $white-invert;
+  color: #fcee09;
 }
 .donate {
   position: relative;
@@ -11620,6 +11622,10 @@ figure.highlight .section {
 .cc-revoke:hover {
   text-decoration: none !important;
   background-color: #f5e703;
+}
+#toc .menu-list a.is-active {
+  background: #f5f5f5;
+  color: #fcee09;
 }
 @media screen and (min-width: 1280px) {
   .is-1-column .container,
