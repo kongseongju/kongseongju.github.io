@@ -31,6 +31,13 @@
     </url>
 
     <url>
+        <loc>https://recordboy.github.io/tags/vim/</loc>
+        <lastmod>2021-03-31T04:40:18.584Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/tags/web-crawling/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -39,13 +46,6 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/vue-js/</loc>
-        <lastmod>2021-03-31T04:40:18.584Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/vim/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -66,14 +66,14 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/svelte-js/</loc>
+        <loc>https://recordboy.github.io/tags/typescript/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/typescript/</loc>
+        <loc>https://recordboy.github.io/tags/svelte-js/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -129,14 +129,14 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/linux/</loc>
+        <loc>https://recordboy.github.io/tags/css/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/css/</loc>
+        <loc>https://recordboy.github.io/tags/linux/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,20 +248,6 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/seo/</loc>
-        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/tags/jekyll/</loc>
-        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/tags/web-accessibility/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -276,14 +262,14 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/hexo/</loc>
+        <loc>https://recordboy.github.io/tags/seo/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/github/</loc>
+        <loc>https://recordboy.github.io/tags/jekyll/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,7 +290,14 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/tags/git/</loc>
+        <loc>https://recordboy.github.io/tags/hexo/</loc>
+        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/github/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -340,6 +333,13 @@
 
     <url>
         <loc>https://recordboy.github.io/tags/eslint/</loc>
+        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/tags/git/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
