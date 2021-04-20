@@ -10279,6 +10279,10 @@ body > .section {
     background: rgba(0,0,0,0.3);
   }
 }
+::selection {
+  background-color: #363636;
+  color: #fff;
+}
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
