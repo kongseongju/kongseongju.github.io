@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
+        <lastmod>2021-04-30T04:10:16.198Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2020/04/29/javascript-es6-spread-operator/</loc>
         <lastmod>2021-04-15T08:03:55.492Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -627,14 +635,6 @@
     <url>
         <loc>https://recordboy.github.io/2017/12/16/javascript-recursive/</loc>
         <lastmod>2021-03-31T04:40:18.579Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/11/05/express-react-heroku-init/</loc>
-        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
