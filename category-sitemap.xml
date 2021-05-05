@@ -9,6 +9,27 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/categories/front-end/ui/</loc>
+        <lastmod>2021-05-05T07:02:30.391Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/front-end/</loc>
+        <lastmod>2021-05-05T07:02:30.391Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/categories/front-end/javascript/</loc>
+        <lastmod>2021-05-05T06:39:01.146Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/categories/server/express/</loc>
         <lastmod>2021-05-01T07:27:15.971Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,28 +44,7 @@
     </url>
 
     <url>
-        <loc>https://recordboy.github.io/categories/front-end/javascript/</loc>
-        <lastmod>2021-04-15T08:03:55.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/front-end/</loc>
-        <lastmod>2021-04-15T08:03:55.492Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://recordboy.github.io/categories/front-end/vue-js/</loc>
-        <lastmod>2021-03-31T04:40:18.584Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/categories/front-end/ui/</loc>
         <lastmod>2021-03-31T04:40:18.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
