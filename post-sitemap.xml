@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2021/04/30/puppeteer-search/</loc>
+        <lastmod>2021-07-09T01:14:08.216Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2019/04/10/ui-slide-banner/</loc>
         <lastmod>2021-06-13T11:53:19.964Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +27,6 @@
     <url>
         <loc>https://recordboy.github.io/2018/01/15/javascript-get-index/</loc>
         <lastmod>2021-05-05T06:39:01.146Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2021/04/30/puppeteer-search/</loc>
-        <lastmod>2021-05-01T07:27:15.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
