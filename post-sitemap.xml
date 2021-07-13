@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://recordboy.github.io/2021/07/13/coding-test-hash/</loc>
+        <lastmod>2021-07-13T01:42:06.732Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://recordboy.github.io/2020/02/16/javascript-array-foreach/</loc>
+        <lastmod>2021-07-13T01:34:11.780Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://recordboy.github.io/2021/04/30/puppeteer-search/</loc>
         <lastmod>2021-07-09T01:14:08.216Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -754,14 +770,6 @@
 
     <url>
         <loc>https://recordboy.github.io/2018/05/15/javascript-array-method/</loc>
-        <lastmod>2021-03-31T04:40:18.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://recordboy.github.io/2020/02/16/javascript-array-foreach/</loc>
         <lastmod>2021-03-31T04:40:18.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
